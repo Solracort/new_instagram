@@ -1,0 +1,67 @@
+body{
+    background: black;
+}
+.content{
+    background:white;
+    width:30%;
+    margin:auto;
+    display:block;
+}
+.title{
+    margin:2px;
+    padding: 2px;
+    display:flex;
+    width:100%;
+}
+.title1{
+    width:10%;
+    font-size: xx-small;
+}
+.title2{
+    width:10%;
+}
+.title3{
+    width:75%;
+    text-align: right;
+    cursor: pointer;
+}    
+.pic {
+    max-width: max-content;
+    margin-left: 15px;
+}
+.menu{
+    height:30px;
+    display: flex;
+    gap: 5px;
+}
+.icono1{
+    margin:3px;
+    width: 7%;
+    cursor: pointer;
+}
+.icono2{
+    margin:3px;
+    width: 7%;
+    cursor: pointer;
+}
+
+.icono3{
+    margin:3px;
+    width: 7%;
+    cursor: pointer;
+}   
+
+.icono4{
+    margin:3px;
+    width:65%;
+   text-align: right;
+   cursor: pointer;
+    
+}
+.comments{
+    margin: 5px;
+}
+p{
+    margin: 5px;
+    padding: 5px;
+}
